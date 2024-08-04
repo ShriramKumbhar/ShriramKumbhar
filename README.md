@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Profile! 🎉
 
-Hey there! I'm [Your Name], a passionate developer and lifelong learner. Dive into my world of code, where creativity meets technology! 🚀
+Hey there! I'm Shriram Kumbhar, a passionate developer and lifelong learner. Dive into my world of code, where creativity meets technology! 🚀
 
 ### ⚠️ Under Construction ⚠️
 
