@@ -16,7 +16,7 @@ Hey there! I'm **Shriram Kumbhar**, a passionate developer and lifelong learner.
 
 ### Featured Project
 
-Check out one of my notable projects: [PGDAC Project](https://github.com/ShriramKumbhar/PGDAC_Project).
+///Check out one of my notable projects: [PGDAC Project](https: //github.com/ShriramKumbhar/PGDAC_Project).
 
 ### Let's Connect!
 
