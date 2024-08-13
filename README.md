@@ -14,6 +14,10 @@ Hey there! I'm **Shriram Kumbhar**, a passionate developer and lifelong learner.
 - **💡 Code Samples**: Check out examples of my clean, efficient, and well-documented code.
 - **📚 Documentation**: Comprehensive guides and documentation to help you understand and use my projects.
 
+### Featured Project
+
+Check out one of my notable projects: [PGDAC Project](https://github.com/ShriramKumbhar/PGDAC_Project).
+
 ### Let's Connect!
 
 I'm always open to feedback, collaboration, and new opportunities. Feel free to reach out if you have any questions or just want to chat about tech. Let's build something amazing together! 🤝
