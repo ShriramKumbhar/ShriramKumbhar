@@ -6,7 +6,7 @@ Hey there! I'm **Shriram Kumbhar**, a passionate developer and lifelong learner.
 
 ### ⚠️ Under Construction ⚠️
 
-🔧 This profile is a work in progress! I'm in the midst of organizing my projects, refining my documentation, and adding new exciting content. Everything will be polished and ready to impress by **29 August 2024**. Stay tuned!
+🔧 This profile is a work in progress! I'm in the midst of organizing my projects, refining my documentation, and adding new exciting content. Everything will be polished and ready to impress by **20 August 2024**. Stay tuned!
 
 ### What to Expect
 
