@@ -1,6 +1,4 @@
-# README
-
-## Welcome to My GitHub Profile! 🎉
+# Welcome to My GitHub Profile! 🎉
 
 Hey there! I'm **Shriram Kumbhar**, a passionate developer and lifelong learner. Dive into my world of code, where creativity meets technology! 🚀
 
