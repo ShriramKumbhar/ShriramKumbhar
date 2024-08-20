@@ -20,6 +20,8 @@ Hey there! I'm **Shriram Kumbhar**, a passionate developer and lifelong learner.
 
 I'm always open to feedback, collaboration, and new opportunities. Feel free to reach out if you have any questions or just want to chat about tech. Let's build something amazing together! 🤝
 
+You Could also connect with me on [Linkedin](https://www.linkedin.com/in/shriramkumbhar/)
+
 ---
 
 Thank you for your patience and understanding. 🙏 Keep an eye on this space for exciting updates!
